@@ -41,13 +41,6 @@ Hi, I'm **Andika**, a **Full Stack Web & Mobile Developer** specializing in **Sa
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Andikaa03&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Andikaa03&theme=radical&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Andikaa03&theme=radical&no-frame=true&row=1&column=6" />
 </p>
@@ -68,10 +61,10 @@ Hi, I'm **Andika**, a **Full Stack Web & Mobile Developer** specializing in **Sa
   <a href="https://github.com/Andikaa03">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/andikamaulanaramadhan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:andikamaulanaramadhan@email.com">
     <img src="https://img.shields.io/badge/Email-22c55e?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
