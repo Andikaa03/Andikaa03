@@ -1,82 +1,83 @@
-<div align="center">
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:06b6d4&height=200&section=header&text=Andika%20Maulana%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=36BCF7&center=true&vCenter=true&width=850&lines=Full+Stack+Web+%26+Mobile+Developer;Fintech+%7C+SaaS+%7C+Startup+Engineer;Building+High+Performance+Applications)
-
-</div>
-
----
-
-# 👋 Hi, I'm Andika
-
-🚀 Full Stack Web & Mobile App Developer  
-💻 React • Vue • Next.js • Node.js • Go • Flutter  
-📱 Web Apps • Mobile Apps • SaaS • Fintech • Admin Dashboard  
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=22C55E&center=true&vCenter=true&width=600&lines=Full+Stack+Web+%26+Mobile+Developer;SaaS+Builder;Fintech+%7C+Startup+Engineer;Vue+%7C+React+%7C+Node+%7C+Flutter" />
+</p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-I am a passionate **Full Stack Developer** with experience building scalable, high-performance applications for **startups, SaaS products, and fintech platforms**.
+Hi, I'm **Andika**, a **Full Stack Web & Mobile Developer** specializing in **SaaS platforms, fintech systems, and scalable web applications**.
 
-I focus on:
-- Clean architecture  
-- High performance & scalability  
-- Clean UI & UX  
-- Maintainable and readable code  
+- 🚀 Building **high-performance SaaS & Fintech products**
+- 🧠 Strong focus on **clean architecture, UX & scalability**
+- ⚡ Fast execution, startup mindset, production-ready code
+- 🌍 Remote-ready & international team experience
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![Vue](https://img.shields.io/badge/-Vue.js-black?style=flat&logo=vue.js)
-![Astro](https://img.shields.io/badge/-Astro-black?style=flat&logo=astro)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwindcss)
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,react,next,astro,tailwind,flutter" />
+</p>
 
 ### Backend
-![Node](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go)
-![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat&logo=nestjs)
-![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
+<p>
+  <img src="https://skillicons.dev/icons?i=node,go,nestjs,express,firebase,postgres,mysql,mongodb" />
+</p>
 
-### Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-black?style=flat&logo=dart)
-
-### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,linux,git,postman" />
+</p>
 
 ---
 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Andikaa03&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Andikaa03&theme=radical&hide_border=true" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andikaa03&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andikaa03&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Andikaa03&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Andikaa03&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 📫 Contact Me
+## 🧠 Activity Graph
 
-📧 Email: andikamaulanaramadhan@email.com  
-💼 LinkedIn: linkedin.com/in/andikamaulanaramadhan  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andikaa03&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
-⭐ If you like my work, feel free to star my repositories!
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Andikaa03">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-22c55e?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:06b6d4&height=120&section=footer" />
+</p>
